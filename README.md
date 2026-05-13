@@ -1,0 +1,2 @@
+# project-serafina
+AI assistant 

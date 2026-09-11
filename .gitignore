@@ -1,0 +1,11 @@
+﻿.godot/
+.import/
+export/
+build/
+*.exe
+*.pck
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
